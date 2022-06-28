@@ -1,7 +1,7 @@
 Welcome to my Profile
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris)](https://github.com/tsingi-chris/github-readme-stats)
 
 ### Connect with me:
 
