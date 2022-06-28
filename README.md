@@ -1,6 +1,6 @@
 ## Hi there , I'm Chris
 
-## I'm college student at Aristotle University
+### I'm college student at Aristotle University
 I am studing Computer Science
 
 ### Connect with me:
