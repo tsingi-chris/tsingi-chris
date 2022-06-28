@@ -17,4 +17,5 @@ I'm studing Computer Science at Aristotle University
 <img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris" />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris" />
+
