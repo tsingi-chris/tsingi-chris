@@ -1,16 +1,13 @@
 Welcome to my Profile
 
----
-<img align="left" alt="tsingi-chris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&langs_count=3" />
 
----
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://users.auth.gr/cdtsingi)
+[![website](./img/globe-dark.svg)](https://users.auth.gr/cdtsingi)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/tsigithebeast/?hl=en)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/tsigithebeast/?hl=en)
