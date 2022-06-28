@@ -15,7 +15,7 @@ I am studing Computer Science
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/tsigithebeast/?hl=en#gh-dark-mode-only)
 
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/username=tsingi-chris&layout=compact&langs_count=3" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/username=tsingi-chris&layout=compact" />
 <br />
 
 
