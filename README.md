@@ -2,6 +2,11 @@
 
 I'm studing Computer Science at Aristotle University
 
+<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris&theme=tokyonight" />
+<br />
+
+<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&theme=tokyonight&langs_count=3" /> <br />
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://users.auth.gr/cdtsingi#gh-light-mode-only)
@@ -12,10 +17,3 @@ I'm studing Computer Science at Aristotle University
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/tsigithebeast/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/tsigithebeast/?hl=en#gh-dark-mode-only)
-
-
-<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris&theme=tokyonight" />
-<br />
-
-<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&theme=tokyonight&langs_count=3" />
-
