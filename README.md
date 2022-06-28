@@ -1,6 +1,7 @@
-# Hi there , I'm Chris
+## Hi there , I'm Chris
 
-# I'm a student studying at Aristotle University
+## I'm college student at Aristotle University
+I am studing Computer Science
 
 ### Connect with me:
 
@@ -14,7 +15,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/tsigithebeast/?hl=en#gh-dark-mode-only)
 
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/username=tsingi-chris&layout=compact&langs_count=3" />
 <br />
 
 
