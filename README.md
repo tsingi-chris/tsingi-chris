@@ -1,8 +1,9 @@
 Welcome to my Profile
 
+---
+<img align="left" alt="tsingi-chris's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&langs_count=3" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris)](https://github.com/tsingi-chris/github-readme-stats)
-
+---
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
