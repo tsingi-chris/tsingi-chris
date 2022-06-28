@@ -14,8 +14,8 @@ I'm studing Computer Science at Aristotle University
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/tsigithebeast/?hl=en#gh-dark-mode-only)
 
 
-<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris" />
+<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris&theme=tokyonight" />
 <br />
 
-<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris" />
+<img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&theme=tokyonight" />
 
