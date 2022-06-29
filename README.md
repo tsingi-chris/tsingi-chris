@@ -5,7 +5,9 @@ I'm studing Computer Science at Aristotle University
 <img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsingi-chris&theme=tokyonight" />
 
 <img align="center" alt="tsingi-chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingi-chris&theme=tokyonight&langs_count=5" /> <br />
+<img align="center" alt="akorkos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akorkos&theme=tokyonight" />
 
+<img align="center" alt="akorkos's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akorkos&theme=tokyonight&langs_count=5" />
 
 ### Connect with me:
 
